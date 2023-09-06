@@ -1,0 +1,12 @@
+.buy-button {
+  background-color: #3f51b5 !important;
+}
+.card-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-actions{
+  display: flex;
+  justify-content: space-between;
+}
