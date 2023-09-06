@@ -1,0 +1,18 @@
+#demo-simple-select-label {
+  width: 45%;
+  margin: auto;
+  text-align: left;
+}
+
+.address-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+}
+
+.saveAddressBtn {
+  color: white !important;
+  background-color: #3f51b5 !important;
+  width: 200px;
+}

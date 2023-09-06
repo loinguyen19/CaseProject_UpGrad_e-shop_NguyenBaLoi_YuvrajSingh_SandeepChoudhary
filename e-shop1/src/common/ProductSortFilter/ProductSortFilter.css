@@ -1,0 +1,9 @@
+.product-sort-filter-container{
+    text-align: left;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.sort-label {
+    margin-left: 8px;
+}
